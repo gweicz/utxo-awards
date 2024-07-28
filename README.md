@@ -8,14 +8,14 @@
 | --- | ---| --- |
 | Best Educational Content |
 | Best User-Friendly DApp ||
-| Top Community-Driven Project | • 2077 Collective ||
+| Top Community-Driven Project | • 2077 Collective<br> • Protocol Guild <br>• Web3Privacy Now | • Jednadvacet.org<br> • Gwei.cz |
 | Most Innovative Tool or Service |||
 | Best Privacy-Focused Project | • Web3Privacy Now | • Web3Privacy Now<br> • Vexl |
 | Best Fiat On/Off Ramp Solution | • Vexl<br> • Bitrefill | • Vexl<br> • Anycoin<br> • Confirmo<br> • Qerko |
 | Best Event | • ETHBerlin<br>• EthCC | • ETHPrague<br>• CryptoByte<br>• BTCPrague<br>• Chaincamp |
 | Best Wallet | • Metamask<br>• Rabby Wallet<br>• Brume Wallet | • Trezor |
 | Podcast of the Year || • KryptoSpace |
-| Best Cypherpunk Venue | • C-base Berlin<br>• Paralelní Polis Prague | • Paralelní Polis Prague |
+| Best Cypherpunk Venue | • C-base Berlin<br>• Paralelní Polis Prague | • Paralelní Polis Prague<br>• Paralelní Polis Košice |
 
 ### Expert Voting
 
@@ -30,4 +30,4 @@
 | Security Innovation of the Year
 | Most Innovative CeFi Product || • CZKC stablecoin<br>• Firefish |
 | Best Smart Contract Auditor of the Year || • Ackee |
-| Best Bitcoin Development Contribution |||
+| Best Bitcoin Development Contribution | • BitVM ||
