@@ -12,9 +12,10 @@
 | Most Innovative Tool or Service |||
 | Best Privacy-Focused Project | • Web3Privacy Now | • Web3Privacy Now |
 | Best Fiat On/Off Ramp Solution | • Vexl | • Vexl<br> • Anycoin<br> • Confirmo<br> • Qerko |
-| Best Event | • ETHBerlin<br>• EthCC | • ETHPrague<br>• CryptoByte<br>• Prague Blockchain Week<br>• BTCPrague<br>• Chaincamp |
+| Best Event | • ETHBerlin<br>• EthCC | • ETHPrague<br>• CryptoByte<br>• BTCPrague<br>• Chaincamp |
 | Best Wallet | • Metamask<br>• Rabby Wallet<br>• Brume Wallet | • Trezor |
 | Podcast of the Year || • KryptoSpace |
+| Best Cypherpunk Venue || • C-base Berlin<br>• Paralelní Polis Prague | • Paralelní Polis Prague |
 
 ### Expert Voting
 
