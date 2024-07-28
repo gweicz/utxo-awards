@@ -5,7 +5,7 @@
 ### Public Voting
 
 * Best Educational Content
-* Most Local Event
+* Best Event
 * Best User-Friendly DApp
 * Top Community-Driven Project
 * Most Innovative Tool or Service
