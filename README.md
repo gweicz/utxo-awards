@@ -16,6 +16,7 @@
 | Best Wallet | • Metamask<br>• Rabby Wallet<br>• Brume Wallet | • Trezor |
 | Podcast of the Year || • KryptoSpace |
 | Best Cypherpunk Venue | • C-base Berlin<br>• Paralelní Polis Prague | • Paralelní Polis Prague<br>• Paralelní Polis Košice |
+| Best Developer Tool |||
 
 ### Expert Voting
 
