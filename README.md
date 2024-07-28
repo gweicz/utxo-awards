@@ -12,7 +12,7 @@
 | Most Innovative Tool or Service |||
 | Best Privacy-Focused Project | • Web3Privacy Now | • Web3Privacy Now |
 | Best Fiat On/Off Ramp Solution | • Vexl | • Vexl<br> • Anycoin<br> • Confirmo<br> • Qerko |
-| Best Event | • ETHBerlin<br>• EthCC | • ETHPrague<br>• Prague Blockchain Week |
+| Best Event | • ETHBerlin<br>• EthCC | • ETHPrague<br>• CryptoByte<br>• Prague Blockchain Week<br>• BTCPrague<br>• Chaincamp |
 | Best Wallet | • Metamask<br>• Rabby Wallet<br>• Brume Wallet | • Trezor |
 | Podcast of the Year || • KryptoSpace |
 
@@ -27,6 +27,6 @@
 | Cross-Chain Collaboration Award
 | Privacy Technology Advancement
 | Security Innovation of the Year
-| Most Innovative CeFi Product || • Firefish |
+| Most Innovative CeFi Product || • CZKC stablecoin<br>• Firefish |
 | Best Smart Contract Auditor of the Year || • Ackee |
 | Best Bitcoin Development Contribution |||
