@@ -4,25 +4,24 @@
 
 ### Public Voting
 
-* Best Educational Content
-* Best Event
-* Best Wallet
-* Best User-Friendly DApp
-* Top Community-Driven Project
-* Most Innovative Tool or Service
-* Best Privacy-Focused Project
-* Best Fiat On/Off Ramp Solution
-* Podcast of the Year
-
-### Expert Jury
-
-* Technical Innovation of the Year
-* Open Source Contribution of the Year
-* DeFi Project of the Year
-* Breakthrough Protocol/Network
-* Cross-Chain Collaboration Award
-* Privacy Technology Advancement
-* Security Innovation of the Year
-*	Most Innovative CeFi Product
-*	Best Smart Contract Auditor of the Year
-*	Best Bitcoin Development Contribution
+| Type | Name | Global nominations | Czech nominations |
+| --- | --- | ---| --- |
+| Public | Best Educational Content |
+| Public | Best User-Friendly DApp ||
+| Public | Top Community-Driven Project | • 2077 Collective ||
+| Public | Most Innovative Tool or Service ||
+| Public | Best Privacy-Focused Project | • Web3Privacy Now | • Web3Privacy Now |
+| Public | Best Fiat On/Off Ramp Solution | • Vexl | • Vexl<br> • Anycoin<br> • Confirmo<br> • Qerko |
+| Public | Best Event | • ETHBerlin<br>• EthCC | • ETHPrague<br>• Prague Blockchain Week |
+| Public | Best Wallet | • Metamask<br>• Rabby Wallet<br>• Brume Wallet | • Trezor |
+| Public | Podcast of the Year || • KryptoSpace
+| Experts | Technical Innovation of the Year
+| Experts | Open Source Contribution of the Year
+| Experts | DeFi Project of the Year || • PWN
+| Experts | Breakthrough Protocol/Network
+| Experts | Cross-Chain Collaboration Award
+| Experts | Privacy Technology Advancement
+| Experts | Security Innovation of the Year
+| Experts | Most Innovative CeFi Product || • Firefish |
+| Experts | Best Smart Contract Auditor of the Year || • Ackee |
+| Experts | Best Bitcoin Development Contribution
