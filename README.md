@@ -9,7 +9,7 @@
 | Best Educational Content | <br> • ... | <br> • ... |
 | Best User-Friendly DApp | <br> • ... | <br> • ... |
 | Top Community-Driven Project | • 2077 Collective<br> • Protocol Guild <br>• Web3Privacy Now<br> • ... | • Jednadvacet.org<br> • Gwei.cz<br>• Polkadotters<br> • ... |
-| Most Innovative Tool or Service | • DefiLlama<br> • ... | <br> • ... |
+| Most Innovative Tool or Service | • DefiLlama<br> • ... | • OpenVibe<br> • ... |
 | Best Privacy-Focused Project | • Web3Privacy Now<br> • ... | • Web3Privacy Now<br> • Vexl<br> • ... |
 | Best Fiat On/Off Ramp Solution | • Vexl<br> • Bitrefill<br> • ... | • Vexl<br> • Anycoin<br> • Confirmo<br> • Qerko<br> • ... |
 | Best Event | • ETHBerlin<br>• EthCC<br> • ... | • ETHPrague<br>• CryptoByte<br>• BTCPrague<br>• Chaincamp<br> • ... |
