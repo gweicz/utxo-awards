@@ -15,7 +15,7 @@
 | Best Event | • ETHBerlin<br>• EthCC | • ETHPrague<br>• CryptoByte<br>• BTCPrague<br>• Chaincamp |
 | Best Wallet | • Metamask<br>• Rabby Wallet<br>• Brume Wallet | • Trezor |
 | Podcast of the Year || • KryptoSpace |
-| Best Cypherpunk Venue || • C-base Berlin<br>• Paralelní Polis Prague | • Paralelní Polis Prague |
+| Best Cypherpunk Venue | • C-base Berlin<br>• Paralelní Polis Prague | • Paralelní Polis Prague |
 
 ### Expert Voting
 
