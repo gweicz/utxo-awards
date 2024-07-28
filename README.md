@@ -24,7 +24,7 @@
 | --- | ---| --- |
 | Technical Innovation of the Year | <br> • ... | <br> • ... |
 | Open Source Contribution of the Year | <br> • ... | <br> • ... |
-| DeFi Project of the Year || • PWN<br> • ... | <br> • ... |
+| DeFi Project of the Year | <br> • ... | • PWN<br> • ... | <br> • ... |
 | Breakthrough Protocol/Network | • EigenLayer<br> • ... | <br> • ... |
 | Cross-Chain Collaboration Award | <br> • ... | <br> • ... |
 | Privacy Technology Advancement | <br> • ... | <br> • ... | 
