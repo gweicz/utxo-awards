@@ -24,3 +24,4 @@
 * Security Innovation of the Year
 *	Most Innovative CeFi Product
 *	Best Smart Contract Auditor of the Year
+*	Best Bitcoin Development Contribution
