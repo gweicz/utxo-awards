@@ -6,6 +6,7 @@
 
 * Best Educational Content
 * Best Event
+* Best Wallet
 * Best User-Friendly DApp
 * Top Community-Driven Project
 * Most Innovative Tool or Service
